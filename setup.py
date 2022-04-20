@@ -18,6 +18,7 @@ setup(
     description='A quantile based dimension reduction technique for regression',
     long_description=long_description,
     long_description_content_type='text/markdown',
+    download_url = 'https://github.com/alvaromc317/fpqr/archive/refs/tags/v_0_0_1.tar.gz',
     keywords=['partial-least-squares', 'quantile-regression', 'dimension-reduction', 'outliers', 'robust'],
     python_requires='>=3.5',
     install_requires=["numpy >= 1.2",
